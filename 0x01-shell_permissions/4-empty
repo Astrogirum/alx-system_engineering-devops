@@ -1,2 +1,2 @@
 #!/bin/bash
-touvh hello
+touch hello
